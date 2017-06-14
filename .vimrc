@@ -18,6 +18,7 @@ Plugin 'scrooloose/nerdtree.git'
 Plugin 'joshdick/onedark.vim'
 Plugin 'itchyny/lightline.vim'
 Plugin 'sheerun/vim-polyglot'
+Plugin 'airblade/vim-gitgutter'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -47,7 +48,6 @@ set pastetoggle=<F6>    " F6 toggles paste mode
 set ignorecase          " Don't care about case...
 set smartcase		" ... unless the query contains upper case characters
 set autoindent		" Enable automatic indenting for files with ft
-set
 set nowrap		" No fake carriage returns
 set showcmd		" Show command in statusline as it's being typed
 set showmatch		" Jump to matching bracket
