@@ -4,5 +4,5 @@
 ### Installation
 #### Debian Linux (Ubuntu)
 ```
-wget -O - https://github.com/johngerome/dotvimrc/blob/master/setup.sh | sh
+wget -O - https://raw.githubusercontent.com/johngerome/dotvimrc/master/setup.sh | sh
 ```
